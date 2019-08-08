@@ -1,0 +1,54 @@
+input{
+    width:100%;
+    font-size:35px;
+    text-align:right;
+    border:none;
+    background-color: black;
+    color:white;
+    position: relative;
+
+}
+.column-3{
+    width:75%;
+    float:left;
+    height:20%;
+    background-color:black;
+}
+.column-2{
+    width:50%;
+    float:left;
+    height:20%;
+    background-color:black;
+
+
+}
+.column-1{
+    width:25%;
+    float:left;
+    height:20%;
+    background-color:black;
+
+}
+.calc_button{
+    width:100%;
+    height:100%;
+    padding:10px;
+color:hsl(0, 0%, 71%);
+    border-width: .2px;
+   border-color:black;
+    background-color: rgb(75, 73, 73);
+    border-radius:10px 10px 10px 10px;
+position: relative;
+border-color:black;
+}
+.floaty-ele{
+    text-align: right;
+    color:grey;
+    height:20%;
+    
+    display: block;
+
+}
+body{
+    background-color: black;
+}
